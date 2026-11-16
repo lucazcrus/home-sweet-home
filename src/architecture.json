@@ -1,0 +1,46 @@
+{
+  "courtyard": {
+    "x1": 0.15,
+    "x2": 5.55,
+    "z1": 3.55,
+    "z2": 9.27
+  },
+  "pool": {
+    "x1": 0.55,
+    "x2": 3.35,
+    "z1": 3.95,
+    "z2": 6.95,
+    "floor": -1.2,
+    "water": -0.1,
+    "benchTop": -0.42
+  },
+  "lightwell": {
+    "x1": 6.8,
+    "x2": 9.85,
+    "z1": 4.55,
+    "z2": 7.78
+  },
+  "note": "Piscina 2,80 × 3,00 m e pátio 5,40 × 5,72 m cotados. Correção pelas anotações: toda a faixa entre escritório e hóspedes é jardim de inverno a céu aberto; o antigo quarto adicional corresponde ao quarto de hóspedes. Jardim e vãos continuam estimados, sem levantamento executivo.",
+  "office": {
+    "x1": 6.78,
+    "x2": 9.85,
+    "z1": 1.48,
+    "z2": 4.55,
+    "lavaboDoor": {
+      "x1": 6.94,
+      "x2": 7.74,
+      "z": 1.48,
+      "height": 2.6
+    }
+  },
+  "guest": {"x1": 6.8, "x2": 9.85, "z1": 7.78, "z2": 10.85},
+  "guestBath": {
+    "x1": 7.15, "x2": 9.85, "z1": 10.85, "z2": 12.25,
+    "door": {"x1": 7.37, "x2": 8.19, "height": 2.18}
+  },
+  "island": {
+    "x1": 3.75, "x2": 5.15, "z1": 10.60, "z2": 13.10,
+    "cabinetX1": 3.81, "cabinetX2": 4.59, "top": 1.0,
+    "stools": {"x": 5.19, "z": [11.04, 11.85, 12.66]}
+  }
+}
